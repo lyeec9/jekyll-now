@@ -1,0 +1,27 @@
+---
+layout: post
+title: CS371p Blog
+---
+
+<h3>8/30</h3>
+
+<p>Hi guys! This is my second blog post for CS371p with Downing!
+
+<Downing's first assignment has been rather tricky. It has a lot of requirements that force you to use a lot of third-party software - namely git, travis, and sphere.
+The actual project isn't too bad, but give yourself a lot of time to start it anyway. It's early in the smemester, so there shouldn't be too much work in your other classes.
+The Collatz Conjecture is quite interesting. I'm in algorithms right now and we're reviewing proofs; I'm actually quite surprised it hasn't been proven yet! I haven't tried to 
+solve it myself, and I'm sure that a lot of people a lot smarter than I have have attempted it before, so I'm not going to bother.</p>
+
+<p>The assignment has a lot of steps to it. Downing really guides his students, but there's still a multitude of piazza posts about students getting confused. I guess a lot of us
+haven't done something like this before, but previous internsip experience can really help out when working with git and the likes. I estimated that the project would take me around 10
+hours, and I think it's going to be close to that. Of course, now that I'm looking back on it, it should probably only take someone around 7-8 hours at most if you actually follow the
+directions and ask questions on piazza!</p>
+
+<p>The class seems to be giving us a lot of useful insight to futre work in the job industry. While the actual programming part of the assignment isn't a big deal, learning to
+properly use git, creating issues, and running constant builds with incremental checkins is a great learning experience for the workfroce.
+Sure, it might seem tiring now, but that's because you're slow at it. I'm assuming that with the skills that I'm learning from this assignment, the next 
+assignment might, you know, actually use object oriented programming?</p>
+
+Lyee Chong
+
+<p>Tip of the week: Start the assignment early! Do the readings ahead of the class- you don't want to miss too many points on the quizzes!</p>
